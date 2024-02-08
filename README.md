@@ -1,0 +1,2 @@
+# git.bsp
+git.example
